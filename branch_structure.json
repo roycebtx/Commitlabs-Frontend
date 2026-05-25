@@ -1,0 +1,21 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "chore/init-soroban-contracts",
+    "dependabot/github_actions/actions/dependency-review-action-5",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "chore/init-soroban-contracts": "master",
+    "dependabot/github_actions/actions/dependency-review-action-5": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "chore/init-soroban-contracts",
+    "dependabot/github_actions/actions/dependency-review-action-5",
+    "origin"
+  ]
+}
